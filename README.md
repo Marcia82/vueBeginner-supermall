@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 1-supermall
 
 ## Project setup
